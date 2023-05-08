@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="Usuario">Ingrese Su Nombre</string>
+    <string name="btnguardar">Guardar</string>
+</resources>
